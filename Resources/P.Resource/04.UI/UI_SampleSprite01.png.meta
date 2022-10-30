@@ -1,0 +1,1383 @@
+fileFormatVersion: 2
+guid: 27a0d64182f8c89478ffc6efb0ac8cbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6465162562108314688
+    second: UI_SampleSprite01_0
+  - first:
+      213: 3058524312056045115
+    second: UI_SampleSprite01_1
+  - first:
+      213: 7816322921317532649
+    second: UI_SampleSprite01_2
+  - first:
+      213: 2408680211269038053
+    second: UI_SampleSprite01_3
+  - first:
+      213: -5135102058113673549
+    second: UI_SampleSprite01_4
+  - first:
+      213: 7520940714957091643
+    second: UI_SampleSprite01_5
+  - first:
+      213: -1067018954379307670
+    second: UI_SampleSprite01_6
+  - first:
+      213: -6667707613264667724
+    second: UI_SampleSprite01_7
+  - first:
+      213: 6448035913234050891
+    second: UI_SampleSprite01_8
+  - first:
+      213: 5853197923696821487
+    second: UI_SampleSprite01_9
+  - first:
+      213: 2145690932180529409
+    second: UI_SampleSprite01_10
+  - first:
+      213: 4921223239774941012
+    second: UI_SampleSprite01_11
+  - first:
+      213: 7229348816750085663
+    second: UI_SampleSprite01_12
+  - first:
+      213: 4799210881434086871
+    second: UI_SampleSprite01_13
+  - first:
+      213: 438450005704488866
+    second: UI_SampleSprite01_14
+  - first:
+      213: 2060028129619128719
+    second: UI_SampleSprite01_15
+  - first:
+      213: -3583095219001604662
+    second: UI_SampleSprite01_16
+  - first:
+      213: -724431995964147840
+    second: UI_SampleSprite01_17
+  - first:
+      213: 6890750476800570921
+    second: UI_SampleSprite01_18
+  - first:
+      213: 8136446841988573653
+    second: UI_SampleSprite01_19
+  - first:
+      213: -6624022135872290933
+    second: UI_SampleSprite01_20
+  - first:
+      213: 8481231603382286807
+    second: UI_SampleSprite01_21
+  - first:
+      213: -6360925246049910463
+    second: UI_SampleSprite01_22
+  - first:
+      213: -4704847988188550456
+    second: UI_SampleSprite01_23
+  - first:
+      213: -2182544363151481314
+    second: UI_SampleSprite01_24
+  - first:
+      213: 8683666873903272881
+    second: UI_SampleSprite01_25
+  - first:
+      213: 510181921006669554
+    second: UI_SampleSprite01_26
+  - first:
+      213: -7119179658835691706
+    second: UI_SampleSprite01_27
+  - first:
+      213: -8662891822335544868
+    second: UI_SampleSprite01_28
+  - first:
+      213: -718868528982513967
+    second: UI_SampleSprite01_29
+  - first:
+      213: 8340368833323956442
+    second: UI_SampleSprite01_30
+  - first:
+      213: 3030884164324778780
+    second: UI_SampleSprite01_31
+  - first:
+      213: -1311914066089490396
+    second: UI_SampleSprite01_32
+  - first:
+      213: -4812123946258795371
+    second: UI_SampleSprite01_33
+  - first:
+      213: -2091380310846055851
+    second: UI_SampleSprite01_34
+  - first:
+      213: -5346197201019666755
+    second: UI_SampleSprite01_35
+  - first:
+      213: -2428713061529385625
+    second: UI_SampleSprite01_36
+  - first:
+      213: -2570354248901005959
+    second: UI_SampleSprite01_37
+  - first:
+      213: -3028967310581388211
+    second: UI_SampleSprite01_38
+  - first:
+      213: -5104920494001328996
+    second: UI_SampleSprite01_39
+  - first:
+      213: 4001313975490162105
+    second: UI_SampleSprite01_40
+  - first:
+      213: 8986721263861678904
+    second: UI_SampleSprite01_41
+  - first:
+      213: 6365964341699401959
+    second: UI_SampleSprite01_42
+  - first:
+      213: 7990513537272458038
+    second: UI_SampleSprite01_43
+  - first:
+      213: -5126639386233484329
+    second: UI_SampleSprite01_44
+  - first:
+      213: -1260344758546286528
+    second: UI_SampleSprite01_45
+  - first:
+      213: 450610428472978130
+    second: UI_SampleSprite01_46
+  - first:
+      213: -831612899797088357
+    second: UI_SampleSprite01_47
+  - first:
+      213: 5403073254363822952
+    second: UI_SampleSprite01_48
+  - first:
+      213: -3376224273161487385
+    second: UI_SampleSprite01_49
+  - first:
+      213: -8403067394533100628
+    second: UI_SampleSprite01_50
+  - first:
+      213: 6983152197668789164
+    second: UI_SampleSprite01_51
+  - first:
+      213: 4297673969213039548
+    second: UI_SampleSprite01_52
+  - first:
+      213: 7736408922308064489
+    second: UI_SampleSprite01_53
+  - first:
+      213: 5833307553351304329
+    second: UI_SampleSprite01_54
+  - first:
+      213: 7840885086620741265
+    second: UI_SampleSprite01_55
+  - first:
+      213: 4410048775820859501
+    second: UI_SampleSprite01_56
+  - first:
+      213: -6751102276590000533
+    second: UI_SampleSprite01_57
+  - first:
+      213: 8426114163410369531
+    second: UI_SampleSprite01_58
+  - first:
+      213: -6902488479078981710
+    second: UI_SampleSprite01_59
+  - first:
+      213: 7870127877916025758
+    second: UI_SampleSprite01_60
+  - first:
+      213: -8448371476070866070
+    second: UI_SampleSprite01_61
+  - first:
+      213: -8163769800834534731
+    second: UI_SampleSprite01_62
+  - first:
+      213: 5541898265943293595
+    second: UI_SampleSprite01_63
+  - first:
+      213: -6693522915654635442
+    second: UI_SampleSprite01_64
+  - first:
+      213: -4633986554630062899
+    second: UI_SampleSprite01_65
+  - first:
+      213: -5597599723057838060
+    second: UI_SampleSprite01_66
+  - first:
+      213: 3835108529213827460
+    second: UI_SampleSprite01_67
+  - first:
+      213: -539208628378940819
+    second: UI_SampleSprite01_68
+  - first:
+      213: 2875805672896336278
+    second: UI_SampleSprite01_69
+  - first:
+      213: -8127825558172753624
+    second: UI_SampleSprite01_70
+  - first:
+      213: 8005370911447390514
+    second: UI_SampleSprite01_71
+  - first:
+      213: 8174675141801366003
+    second: UI_SampleSprite01_72
+  - first:
+      213: -8312779766529005900
+    second: UI_SampleSprite01_73
+  - first:
+      213: -5814892369276534307
+    second: UI_SampleSprite01_74
+  - first:
+      213: 6325530381947921279
+    second: UI_SampleSprite01_75
+  - first:
+      213: -2779812104052540159
+    second: UI_SampleSprite01_76
+  - first:
+      213: -1702551036387711957
+    second: UI_SampleSprite01_77
+  - first:
+      213: -4451073116884464458
+    second: UI_SampleSprite01_78
+  - first:
+      213: -1276037322961129265
+    second: UI_SampleSprite01_79
+  - first:
+      213: -968444538390053201
+    second: UI_SampleSprite01_80
+  - first:
+      213: -3872454381597436348
+    second: UI_SampleSprite01_81
+  - first:
+      213: 6816613131699090866
+    second: UI_SampleSprite01_82
+  - first:
+      213: 1303248030435154946
+    second: UI_SampleSprite01_83
+  - first:
+      213: 4935409415872016770
+    second: UI_SampleSprite01_84
+  - first:
+      213: 8792830248481796131
+    second: UI_SampleSprite01_85
+  - first:
+      213: 4385573002924088276
+    second: UI_SampleSprite01_86
+  - first:
+      213: 55522074502754705
+    second: UI_SampleSprite01_87
+  - first:
+      213: -4977639468196472830
+    second: UI_SampleSprite01_88
+  - first:
+      213: 5796975215553788034
+    second: UI_SampleSprite01_89
+  - first:
+      213: 6825441527979207304
+    second: UI_SampleSprite01_90
+  - first:
+      213: 5278196384514965794
+    second: UI_SampleSprite01_91
+  - first:
+      213: -6070009515724668748
+    second: UI_SampleSprite01_92
+  - first:
+      213: -5929753820788892743
+    second: UI_SampleSprite01_93
+  - first:
+      213: -3123290675363560336
+    second: UI_SampleSprite01_94
+  - first:
+      213: 823527211693669226
+    second: UI_SampleSprite01_95
+  - first:
+      213: 4659086018016385135
+    second: UI_SampleSprite01_96
+  - first:
+      213: 794906783077423895
+    second: UI_SampleSprite01_97
+  - first:
+      213: 460235044185411065
+    second: UI_SampleSprite01_98
+  - first:
+      213: -5085515611118784670
+    second: UI_SampleSprite01_99
+  - first:
+      213: -2327798816831670162
+    second: UI_SampleSprite01_100
+  - first:
+      213: 6861115773928770585
+    second: UI_SampleSprite01_101
+  - first:
+      213: 3648110935550438391
+    second: UI_SampleSprite01_102
+  - first:
+      213: -5971845063669067575
+    second: UI_SampleSprite01_103
+  - first:
+      213: -4339630607877934039
+    second: UI_SampleSprite01_104
+  - first:
+      213: 7988692445983521249
+    second: UI_SampleSprite01_105
+  - first:
+      213: 1553458716424747378
+    second: UI_SampleSprite01_106
+  - first:
+      213: 5238344770576104441
+    second: UI_SampleSprite01_107
+  - first:
+      213: -1061170098668108974
+    second: UI_SampleSprite01_108
+  - first:
+      213: -556373741555745783
+    second: UI_SampleSprite01_109
+  - first:
+      213: -5792382968059164412
+    second: UI_SampleSprite01_110
+  - first:
+      213: -6912739514471462230
+    second: UI_SampleSprite01_111
+  - first:
+      213: -4927160742856228256
+    second: UI_SampleSprite01_112
+  - first:
+      213: -4882160341287608471
+    second: UI_SampleSprite01_113
+  - first:
+      213: 6413754580571905941
+    second: UI_SampleSprite01_114
+  - first:
+      213: 5027365535437587453
+    second: UI_SampleSprite01_115
+  - first:
+      213: 3817904556434995331
+    second: UI_SampleSprite01_116
+  - first:
+      213: 5293475970652457729
+    second: UI_SampleSprite01_117
+  - first:
+      213: -8402166330172002926
+    second: UI_SampleSprite01_118
+  - first:
+      213: -2339713025209098224
+    second: UI_SampleSprite01_119
+  - first:
+      213: 679451058877268964
+    second: UI_SampleSprite01_120
+  - first:
+      213: 6513101844421981293
+    second: UI_SampleSprite01_121
+  - first:
+      213: 5059549262810936891
+    second: UI_SampleSprite01_122
+  - first:
+      213: 4276431659679134035
+    second: UI_SampleSprite01_123
+  - first:
+      213: 6090418810539922781
+    second: UI_SampleSprite01_124
+  - first:
+      213: 2947208246549425688
+    second: UI_SampleSprite01_125
+  - first:
+      213: 3781359206813237808
+    second: UI_SampleSprite01_126
+  - first:
+      213: -8231227339306438110
+    second: UI_SampleSprite01_127
+  - first:
+      213: -4113979295221967125
+    second: UI_SampleSprite01_128
+  - first:
+      213: 2578827814535839959
+    second: UI_SampleSprite01_129
+  - first:
+      213: 6491597753132155882
+    second: UI_SampleSprite01_130
+  - first:
+      213: -4979631157800370610
+    second: UI_SampleSprite01_131
+  - first:
+      213: 3725652679175086053
+    second: UI_SampleSprite01_132
+  - first:
+      213: -7831549625472058840
+    second: UI_SampleSprite01_133
+  - first:
+      213: 1712923924049107721
+    second: UI_SampleSprite01_134
+  - first:
+      213: 4245900426085438917
+    second: UI_SampleSprite01_135
+  - first:
+      213: 6488849602453955913
+    second: UI_SampleSprite01_136
+  - first:
+      213: -1368033003434986095
+    second: UI_SampleSprite01_137
+  - first:
+      213: -101505342417480085
+    second: UI_SampleSprite01_138
+  - first:
+      213: 2337219231486399144
+    second: UI_SampleSprite01_139
+  - first:
+      213: 1897304738577986827
+    second: UI_SampleSprite01_140
+  - first:
+      213: 7708727762989162378
+    second: UI_SampleSprite01_141
+  - first:
+      213: 8720616555436109665
+    second: UI_SampleSprite01_142
+  - first:
+      213: -1707494194318093338
+    second: UI_SampleSprite01_143
+  - first:
+      213: -3841478894851773126
+    second: UI_SampleSprite01_144
+  - first:
+      213: 3277245862271545288
+    second: UI_SampleSprite01_145
+  - first:
+      213: -1157787697802713533
+    second: UI_SampleSprite01_146
+  - first:
+      213: 6677191567235301119
+    second: UI_SampleSprite01_147
+  - first:
+      213: -5336527523015099176
+    second: UI_SampleSprite01_148
+  - first:
+      213: 1471352124696543878
+    second: UI_SampleSprite01_149
+  - first:
+      213: -9189925914822218204
+    second: UI_SampleSprite01_150
+  - first:
+      213: -46315585238696420
+    second: UI_SampleSprite01_151
+  - first:
+      213: 7408829122424225317
+    second: UI_SampleSprite01_152
+  - first:
+      213: 9153835641492690201
+    second: UI_SampleSprite01_153
+  - first:
+      213: 3667372805480753192
+    second: UI_SampleSprite01_154
+  - first:
+      213: 8230865641191327939
+    second: UI_SampleSprite01_155
+  - first:
+      213: -26117364697046361
+    second: UI_SampleSprite01_156
+  - first:
+      213: 6337761592239251109
+    second: UI_SampleSprite01_157
+  - first:
+      213: -595842563988490732
+    second: UI_SampleSprite01_158
+  - first:
+      213: -6033465413049610388
+    second: UI_SampleSprite01_159
+  - first:
+      213: -5706045452499790990
+    second: UI_SampleSprite01_160
+  - first:
+      213: -3759369092832151541
+    second: UI_SampleSprite01_161
+  - first:
+      213: -2679330388722208354
+    second: UI_SampleSprite01_162
+  - first:
+      213: 8409733843398538513
+    second: UI_SampleSprite01_163
+  - first:
+      213: 1236350806327774185
+    second: UI_SampleSprite01_164
+  - first:
+      213: 7930494299657891783
+    second: UI_SampleSprite01_165
+  - first:
+      213: 3704988566508193502
+    second: UI_SampleSprite01_166
+  - first:
+      213: -8842575639779836504
+    second: UI_SampleSprite01_167
+  - first:
+      213: -7947032985995971169
+    second: UI_SampleSprite01_168
+  - first:
+      213: 2223976658474037754
+    second: UI_SampleSprite01_169
+  - first:
+      213: -5460356792478644687
+    second: UI_SampleSprite01_170
+  - first:
+      213: 359732824982716242
+    second: UI_SampleSprite01_171
+  - first:
+      213: -1861570574050452732
+    second: UI_SampleSprite01_172
+  - first:
+      213: 2617146002390825226
+    second: UI_SampleSprite01_173
+  - first:
+      213: 6587235828996862028
+    second: UI_SampleSprite01_174
+  - first:
+      213: 265175196198046021
+    second: UI_SampleSprite01_175
+  - first:
+      213: 8938447054557705273
+    second: UI_SampleSprite01_176
+  - first:
+      213: 6711226203271871067
+    second: UI_SampleSprite01_177
+  - first:
+      213: 3465353264906431967
+    second: UI_SampleSprite01_178
+  - first:
+      213: 710963609102379518
+    second: UI_SampleSprite01_179
+  - first:
+      213: -4104720298843777899
+    second: UI_SampleSprite01_180
+  - first:
+      213: -7447528737242755723
+    second: UI_SampleSprite01_181
+  - first:
+      213: -7061777446985542032
+    second: UI_SampleSprite01_182
+  - first:
+      213: 1876749263635306005
+    second: UI_SampleSprite01_183
+  - first:
+      213: 5682540734351173500
+    second: UI_SampleSprite01_184
+  - first:
+      213: -7399581232711300102
+    second: UI_SampleSprite01_185
+  - first:
+      213: 3371644754655960654
+    second: UI_SampleSprite01_186
+  - first:
+      213: 7327163251402129595
+    second: UI_SampleSprite01_187
+  - first:
+      213: -602931655770330923
+    second: UI_SampleSprite01_188
+  - first:
+      213: 1197044546795527778
+    second: UI_SampleSprite01_189
+  - first:
+      213: -3157876442471491592
+    second: UI_SampleSprite01_190
+  - first:
+      213: -4484448529214330709
+    second: UI_SampleSprite01_191
+  - first:
+      213: -6525788490777776726
+    second: UI_SampleSprite01_192
+  - first:
+      213: 5830937586516572121
+    second: UI_SampleSprite01_193
+  - first:
+      213: -2238922498918522230
+    second: UI_SampleSprite01_194
+  - first:
+      213: -6962023845105894456
+    second: UI_SampleSprite01_195
+  - first:
+      213: 1489336265434815343
+    second: UI_SampleSprite01_196
+  - first:
+      213: -8415398538291675592
+    second: UI_SampleSprite01_197
+  - first:
+      213: 7233061211551663600
+    second: UI_SampleSprite01_198
+  - first:
+      213: 1413825420701325198
+    second: UI_SampleSprite01_199
+  - first:
+      213: 5885436108498122552
+    second: UI_SampleSprite01_200
+  - first:
+      213: -1636811481205563247
+    second: UI_SampleSprite01_201
+  - first:
+      213: -8717188315576112765
+    second: UI_SampleSprite01_202
+  - first:
+      213: -6593251179834510022
+    second: UI_SampleSprite01_203
+  - first:
+      213: 4315992782010364976
+    second: UI_SampleSprite01_204
+  - first:
+      213: 136698717498321261
+    second: UI_SampleSprite01_205
+  - first:
+      213: 5651952715726357148
+    second: UI_SampleSprite01_206
+  - first:
+      213: -7996588961763364687
+    second: UI_SampleSprite01_207
+  - first:
+      213: -2938299463585463201
+    second: UI_SampleSprite01_208
+  - first:
+      213: 7701532949109094867
+    second: UI_SampleSprite01_209
+  - first:
+      213: 2423273248557512875
+    second: UI_SampleSprite01_210
+  - first:
+      213: 2813954971797669522
+    second: UI_SampleSprite01_211
+  - first:
+      213: -4542112799710165079
+    second: UI_SampleSprite01_212
+  - first:
+      213: -4354765075505553692
+    second: UI_SampleSprite01_213
+  - first:
+      213: -999498865373615047
+    second: UI_SampleSprite01_214
+  - first:
+      213: 3707301749023919197
+    second: UI_SampleSprite01_215
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_SampleSprite01_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 765
+        width: 670
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb216657e02746a0800000000000000
+      internalID: -6465162562108314688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_1
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 924
+        width: 314
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1ff438af027a20800000000000000
+      internalID: 3058524312056045115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_2
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 924
+        width: 314
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e300e6c848297c60800000000000000
+      internalID: 7816322921317532649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_3
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 924
+        width: 314
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef2432f3e95d6120800000000000000
+      internalID: 2408680211269038053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 765
+        width: 314
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6d1c492e37cb8b0800000000000000
+      internalID: -5135102058113673549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_5
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 765
+        width: 314
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b333acb8bbfbf5860800000000000000
+      internalID: 7520940714957091643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_6
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 765
+        width: 314
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65dc9f0aef2131f0800000000000000
+      internalID: -1067018954379307670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 592
+        width: 314
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb1135b04b8773a0800000000000000
+      internalID: -6667707613264667724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_8
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 592
+        width: 314
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe64bff760c7950800000000000000
+      internalID: 6448035913234050891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 592
+        width: 314
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4c002008cba3150800000000000000
+      internalID: 5853197923696821487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 78
+        width: 356
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b562d88607cd10800000000000000
+      internalID: 2145690932180529409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SampleSprite01_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 139
+        width: 676
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fae2b7672bb4440800000000000000
+      internalID: 4921223239774941012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -535, y: -393}
+      - {x: -568, y: -400}
+      - {x: -568, y: -464}
+      - {x: -513, y: -464}
+      - {x: -513, y: -393}
+    - - {x: -669, y: -396}
+      - {x: -697, y: -411}
+      - {x: -697, y: -463}
+      - {x: -626, y: -463}
+      - {x: -617, y: -428}
+      - {x: -617, y: -396}
+    - - {x: -570, y: -421}
+      - {x: -577, y: -422}
+      - {x: -561, y: -412}
+      - {x: -559, y: -407}
+      - {x: -559, y: -399}
+      - {x: -589, y: -399}
+      - {x: -602, y: -401}
+      - {x: -617, y: -446}
+      - {x: -617, y: -458}
+      - {x: -615, y: -463}
+      - {x: -592, y: -463}
+      - {x: -571, y: -453}
+      - {x: -559, y: -437}
+      - {x: -559, y: -430}
+    - - {x: -701, y: -398}
+      - {x: -718, y: -398}
+      - {x: -737, y: -409}
+      - {x: -752, y: -440}
+      - {x: -752, y: -462}
+      - {x: -701, y: -462}
+      - {x: -696, y: -436}
+      - {x: -696, y: -409}
+      - {x: -697, y: -404}
+    - - {x: -788, y: -430}
+      - {x: -784, y: -441}
+      - {x: -794, y: -436}
+      - {x: -784, y: -422}
+      - {x: -753, y: -415}
+      - {x: -751, y: -406}
+      - {x: -751, y: -402}
+      - {x: -756, y: -397}
+      - {x: -772, y: -397}
+      - {x: -783, y: -399}
+      - {x: -802, y: -417}
+      - {x: -807, y: -432}
+      - {x: -807, y: -455}
+      - {x: -798, y: -461}
+      - {x: -761, y: -461}
+      - {x: -751, y: -441}
+      - {x: -751, y: -418}
+      - {x: -779, y: -422}
+    - - {x: -725, y: -423}
+      - {x: -719, y: -417}
+      - {x: -715, y: -414}
+      - {x: -712, y: -412}
+      - {x: -710, y: -412}
+      - {x: -710, y: -422}
+      - {x: -719, y: -423}
+      - {x: -720, y: -424}
+      - {x: -726, y: -425}
+      - {x: -725, y: -424}
+    - - {x: 10, y: -246}
+      - {x: -30, y: -251}
+      - {x: -97, y: -321}
+      - {x: -97, y: -363}
+      - {x: -23, y: -403}
+      - {x: 51, y: -403}
+      - {x: 55, y: -377}
+      - {x: 55, y: -259}
+      - {x: 52, y: -246}
+    - - {x: 221, y: -277}
+      - {x: 202, y: -285}
+      - {x: 202, y: -361}
+      - {x: 222, y: -386}
+      - {x: 300, y: -386}
+      - {x: 304, y: -380}
+      - {x: 323, y: -317}
+      - {x: 323, y: -277}
+    - - {x: -610, y: -185}
+      - {x: -672, y: -185}
+      - {x: -715, y: -202}
+      - {x: -721, y: -214}
+      - {x: -723, y: -233}
+      - {x: -701, y: -240}
+      - {x: -802, y: -310}
+      - {x: -804, y: -315}
+      - {x: -804, y: -360}
+      - {x: -771, y: -384}
+      - {x: -711, y: -384}
+      - {x: -708, y: -383}
+      - {x: -693, y: -366}
+      - {x: -624, y: -274}
+      - {x: -610, y: -214}
+    - - {x: -469, y: -185}
+      - {x: -471, y: -186}
+      - {x: -554, y: -199}
+      - {x: -563, y: -230}
+      - {x: -550, y: -239}
+      - {x: -641, y: -307}
+      - {x: -641, y: -364}
+      - {x: -615, y: -384}
+      - {x: -546, y: -384}
+      - {x: -503, y: -363}
+      - {x: -447, y: -217}
+      - {x: -447, y: -189}
+      - {x: -449, y: -185}
+    - - {x: 4, y: -371}
+      - {x: 0, y: -369}
+      - {x: -9, y: -368}
+      - {x: -10, y: -367}
+      - {x: -12, y: -367}
+      - {x: -16, y: -365}
+      - {x: -21, y: -364}
+      - {x: -29, y: -362}
+      - {x: -52, y: -340}
+      - {x: -52, y: -339}
+      - {x: -56, y: -336}
+      - {x: -13, y: -336}
+      - {x: -7, y: -349}
+      - {x: -4, y: -351}
+      - {x: -4, y: -353}
+      - {x: -1, y: -357}
+      - {x: 2, y: -364}
+      - {x: 4, y: -366}
+      - {x: 8, y: -372}
+      - {x: 6, y: -371}
+    - - {x: 78, y: -297}
+      - {x: 78, y: -358}
+      - {x: 79, y: -367}
+      - {x: 122, y: -367}
+      - {x: 138, y: -365}
+      - {x: 140, y: -361}
+      - {x: 140, y: -297}
+    - - {x: 27, y: -359}
+      - {x: 24, y: -357}
+      - {x: 24, y: -355}
+      - {x: 18, y: -346}
+      - {x: 15, y: -339}
+      - {x: 13, y: -337}
+      - {x: 6, y: -323}
+      - {x: 8, y: -322}
+      - {x: 11, y: -317}
+      - {x: 15, y: -308}
+      - {x: 17, y: -306}
+      - {x: 19, y: -301}
+      - {x: 21, y: -299}
+      - {x: 24, y: -294}
+      - {x: 27, y: -286}
+      - {x: 27, y: -291}
+      - {x: 28, y: -295}
+      - {x: 29, y: -298}
+      - {x: 31, y: -302}
+      - {x: 31, y: -305}
+      - {x: 32, y: -310}
+      - {x: 34, y: -313}
+      - {x: 35, y: -320}
+      - {x: 37, y: -324}
+      - {x: 36, y: -325}
+      - {x: 35, y: -332}
+      - {x: 34, y: -333}
+      - {x: 32, y: -339}
+      - {x: 30, y: -347}
+      - {x: 30, y: -350}
+      - {x: 28, y: -354}
+      - {x: 27, y: -358}
+      - {x: 27, y: -362}
+      - {x: 28, y: -362}
+    - - {x: 142, y: -296}
+      - {x: 140, y: -297}
+      - {x: 140, y: -364}
+      - {x: 199, y: -364}
+      - {x: 202, y: -363}
+      - {x: 202, y: -306}
+      - {x: 193, y: -296}
+    - - {x: -295, y: -311}
+      - {x: -307, y: -311}
+      - {x: -315, y: -317}
+      - {x: -315, y: -322}
+      - {x: -311, y: -325}
+      - {x: -309, y: -325}
+      - {x: -305, y: -322}
+      - {x: -307, y: -324}
+      - {x: -310, y: -325}
+      - {x: -315, y: -331}
+      - {x: -315, y: -341}
+      - {x: -308, y: -346}
+      - {x: -297, y: -346}
+      - {x: -290, y: -345}
+      - {x: -288, y: -344}
+      - {x: -288, y: -316}
+    - - {x: -278, y: -300}
+      - {x: -288, y: -311}
+      - {x: -288, y: -345}
+      - {x: -283, y: -346}
+      - {x: -238, y: -346}
+      - {x: -232, y: -342}
+      - {x: -232, y: -307}
+      - {x: -246, y: -300}
+    - - {x: -146, y: -300}
+      - {x: -156, y: -300}
+      - {x: -158, y: -301}
+      - {x: -158, y: -304}
+      - {x: -169, y: -301}
+      - {x: -183, y: -313}
+      - {x: -183, y: -345}
+      - {x: -182, y: -346}
+      - {x: -133, y: -346}
+      - {x: -131, y: -344}
+      - {x: -131, y: -319}
+      - {x: -132, y: -310}
+    - - {x: -320, y: -301}
+      - {x: -324, y: -302}
+      - {x: -326, y: -305}
+      - {x: -332, y: -319}
+      - {x: -341, y: -307}
+      - {x: -350, y: -301}
+      - {x: -357, y: -301}
+      - {x: -357, y: -345}
+      - {x: -319, y: -345}
+      - {x: -316, y: -344}
+      - {x: -316, y: -305}
+    - - {x: -183, y: -320}
+      - {x: -183, y: -312}
+      - {x: -224, y: -312}
+      - {x: -224, y: -322}
+      - {x: -221, y: -344}
+      - {x: -220, y: -345}
+      - {x: -191, y: -345}
+      - {x: -189, y: -341}
+    - - {x: -161, y: -336}
+      - {x: -161, y: -321}
+      - {x: -160, y: -321}
+      - {x: -158, y: -319}
+      - {x: -158, y: -337}
+      - {x: -159, y: -336}
+    - - {x: -304, y: -333}
+      - {x: -303, y: -333}
+      - {x: -302, y: -332}
+      - {x: -298, y: -332}
+      - {x: -298, y: -335}
+      - {x: -300, y: -336}
+      - {x: -305, y: -336}
+    - - {x: -278, y: -334}
+      - {x: -278, y: -330}
+      - {x: -279, y: -327}
+      - {x: -278, y: -326}
+      - {x: -278, y: -323}
+      - {x: -276, y: -321}
+      - {x: -273, y: -320}
+      - {x: -269, y: -324}
+      - {x: -269, y: -330}
+      - {x: -270, y: -331}
+      - {x: -269, y: -333}
+      - {x: -271, y: -336}
+    - - {x: -249, y: -321}
+      - {x: -245, y: -320}
+      - {x: -242, y: -322}
+      - {x: -250, y: -322}
+    - - {x: -43, y: -300}
+      - {x: -42, y: -301}
+      - {x: 6, y: -278}
+      - {x: 6, y: -277}
+      - {x: 9, y: -277}
+      - {x: 9, y: -276}
+      - {x: 5, y: -279}
+      - {x: -11, y: -307}
+      - {x: -14, y: -313}
+      - {x: -57, y: -314}
+      - {x: -56, y: -314}
+    - - {x: -183, y: -308}
+      - {x: -182, y: -311}
+      - {x: -175, y: -311}
+      - {x: -173, y: -310}
+      - {x: -173, y: -305}
+      - {x: -176, y: -301}
+      - {x: -180, y: -301}
+      - {x: -183, y: -303}
+    - - {x: 205, y: -277}
+      - {x: 202, y: -280}
+      - {x: 202, y: -293}
+      - {x: 204, y: -295}
+      - {x: 219, y: -295}
+      - {x: 222, y: -292}
+      - {x: 222, y: -280}
+      - {x: 219, y: -277}
+    - - {x: -253, y: 154}
+      - {x: -253, y: 50}
+      - {x: 60, y: 50}
+      - {x: 65, y: 54}
+      - {x: 65, y: 142}
+      - {x: 63, y: 154}
+    - - {x: 101, y: 154}
+      - {x: 92, y: 143}
+      - {x: 92, y: 56}
+      - {x: 96, y: 50}
+      - {x: 410, y: 50}
+      - {x: 410, y: 144}
+      - {x: 403, y: 154}
+    - - {x: 433, y: 154}
+      - {x: 433, y: 50}
+      - {x: 751, y: 50}
+      - {x: 751, y: 150}
+      - {x: 743, y: 154}
+    - - {x: -851, y: 519}
+      - {x: -948, y: 352}
+      - {x: -948, y: 300}
+      - {x: -926, y: 224}
+      - {x: -924, y: 223}
+      - {x: -297, y: 223}
+      - {x: -274, y: 266}
+      - {x: -274, y: 468}
+      - {x: -327, y: 519}
+    - - {x: -251, y: 327}
+      - {x: -253, y: 322}
+      - {x: -253, y: 223}
+      - {x: 65, y: 223}
+      - {x: 65, y: 327}
+    - - {x: 92, y: 327}
+      - {x: 92, y: 228}
+      - {x: 99, y: 223}
+      - {x: 399, y: 223}
+      - {x: 410, y: 226}
+      - {x: 410, y: 324}
+      - {x: 404, y: 327}
+    - - {x: 433, y: 327}
+      - {x: 433, y: 223}
+      - {x: 749, y: 223}
+      - {x: 751, y: 231}
+      - {x: 751, y: 327}
+    - - {x: -620, y: 311}
+      - {x: -623, y: 315}
+      - {x: -624, y: 319}
+      - {x: -623, y: 320}
+      - {x: -623, y: 321}
+      - {x: -620, y: 324}
+      - {x: -621, y: 325}
+      - {x: -621, y: 309}
+      - {x: -620, y: 310}
+    - - {x: -411, y: 365}
+      - {x: -408, y: 366}
+      - {x: -408, y: 367}
+      - {x: -412, y: 363}
+      - {x: -412, y: 362}
+      - {x: -411, y: 362}
+    - - {x: 58, y: 484}
+      - {x: 53, y: 486}
+      - {x: -253, y: 486}
+      - {x: -253, y: 382}
+      - {x: 58, y: 382}
+      - {x: 65, y: 391}
+      - {x: 65, y: 475}
+    - - {x: 102, y: 486}
+      - {x: 92, y: 483}
+      - {x: 92, y: 391}
+      - {x: 101, y: 383}
+      - {x: 108, y: 382}
+      - {x: 398, y: 382}
+      - {x: 410, y: 387}
+      - {x: 410, y: 476}
+      - {x: 403, y: 486}
+    - - {x: 433, y: 486}
+      - {x: 433, y: 382}
+      - {x: 751, y: 382}
+      - {x: 751, y: 482}
+      - {x: 744, y: 486}
+    - - {x: -556, y: 490}
+      - {x: -553, y: 490}
+      - {x: -554, y: 483}
+    - - {x: -636, y: 487}
+      - {x: -638, y: 490}
+      - {x: -641, y: 490}
+      - {x: -634, y: 489}
+      - {x: -636, y: 487}
+      - {x: -636, y: 486}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

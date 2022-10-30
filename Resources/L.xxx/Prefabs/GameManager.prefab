@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1306750721627379840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1306750721627379854}
+  - component: {fileID: 1306750721627379841}
+  - component: {fileID: 1306750721627379855}
+  - component: {fileID: 1306750721627379852}
+  - component: {fileID: 1306750721627379853}
+  - component: {fileID: 1306750721627379850}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1306750721627379854
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306750721627379840}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1306750721627379841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306750721627379840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baffc19db541b2144915a424d9d22cc3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distance: 10
+  power: 5
+  testBox: {fileID: 0}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 64
+--- !u!114 &1306750721627379855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306750721627379840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 343f0f5528061d645abc01549aa5b6ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unitForDifficulty: 6
+  buttonGenInterval: 3
+  slopeChance: 3
+--- !u!114 &1306750721627379852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306750721627379840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 355265d92e670ba4eaff875227b6a552, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  balanceWeight: {fileID: 0}
+  bombObject:
+  - {fileID: 0}
+  - {fileID: 0}
+  balanceWeightDangerMaterial: {fileID: 2100000, guid: 4dc23921ba81ac246b2808c2e7701614, type: 2}
+  BombDangerMaterial: {fileID: 2100000, guid: 35583ed79a06d6e4ba9ea5beca60a3ea, type: 2}
+  balanceWeightAngle: 0
+  spine: {fileID: 0}
+--- !u!114 &1306750721627379853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306750721627379840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d937a0edc90aac43a2e77c0572b9b5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lObstacles:
+  - {fileID: 8786407692400071625, guid: 86d3bbb412365734e816a584f69ada84, type: 3}
+  - {fileID: 8786407692400071625, guid: e62562dcbbb0bad489ab817f16688db6, type: 3}
+  - {fileID: 8786407692400071625, guid: 6a10edb9180bbc04d95a7544555f9b1e, type: 3}
+  - {fileID: 8786407692400071625, guid: 221db3364f8c38946814ffd232df0869, type: 3}
+  obstaclePos: {x: -4, y: 1.5, z: 0}
+  distance: 25
+  frequancy: 4
+--- !u!114 &1306750721627379850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306750721627379840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f56583747c134c4e8588450e577cc0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
